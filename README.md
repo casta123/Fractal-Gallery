@@ -1,4 +1,5 @@
-# Fractals
+# Fractal Gallery
+
 Proyecto 3D Realizado en Unity que muestra y explica muchos de los factales mas famosos conocidos por la humanidad
 
 Este proyecto fué realizado en colaboración con Jorge Luis Avila.
